@@ -47,6 +47,10 @@ PRODUCT_VENDOR_LINKER_CONFIG_FRAGMENTS += \
 PRODUCT_PACKAGES += \
     GoogleParts
 
+# PixelDisplayService
+PRODUCT_PACKAGES += \
+    com.android.pixeldisplayservice.auto_generated_rro_product_adevtool__
+
 # Pixel Parts
 $(call inherit-product-if-exists, packages/apps/PixelParts/device.mk)
 
