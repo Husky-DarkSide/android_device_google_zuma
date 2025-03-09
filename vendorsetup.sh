@@ -22,5 +22,5 @@ git clone -b 15.0 https://github.com/crdroidandroid/android_packages_apps_PixelP
 rm -rf packages/apps/ViPER4AndroidFX
 git clone -b v4a https://github.com/TogoFire/packages_apps_ViPER4AndroidFX.git packages/apps/ViPER4AndroidFX
 
-rm -rf packages/apps/ElmyraService
-git clone -b lineage-22.1 https://github.com/LineageOS/android_packages_apps_ElmyraService.git packages/apps/ElmyraService 
+#rm -rf packages/apps/ElmyraService
+#git clone -b lineage-22.1 https://github.com/LineageOS/android_packages_apps_ElmyraService.git packages/apps/ElmyraService 
